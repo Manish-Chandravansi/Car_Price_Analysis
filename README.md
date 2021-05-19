@@ -1,2 +1,2 @@
 # Car_Price_Analysis
-The main objective of this Analysis is to decide best selling price for the cars
+OJECTIVE: The objectiveof this project is to client for deciding the price of the car to be sold, and to study the various factors and functionality of car on which the selling price of the car depends
